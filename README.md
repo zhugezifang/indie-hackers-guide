@@ -133,7 +133,7 @@ s
 
  - [独立开发前线](https://www.91wink.com/ ）：国内氛围非常不错的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
 
- - [电鸭](https://eleduck.com/ ）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
+ - [电鸭](https://eleduck.com/ ）：国内远程和独立开发者社区，可发帖介绍自己的产品。[发产品](https://eleduck.com/posts/new)
 
  上面部分均为本人亲测有效，下面整理来自 [1000userguide](https://1000userguide.com/#/google_vignette)
 
