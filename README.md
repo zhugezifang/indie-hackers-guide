@@ -1,17 +1,15 @@
-<p align="center"><img src="/1000UserGuide.webp"></p>
-
-<h1 align="center">🚀1000UserGuide</h1>
+<h1 align="center">🚀indie-hackers-guide</h1>
 
 <p align="center">
-   <a href="https://github.com/naxiaoduo/1000UserGuide"><img src="https://img.shields.io/github/stars/naxiaoduo/1000UserGuide" alt="Github Stars"></a>
+   <a href="https://github.com/zhugezifang/indie-hackers-guide"><img src="https://img.shields.io/github/stars/zhugezifang/indie-hackers-guide" alt="Github Stars"></a>
    <a target="_blank" href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202-green.svg" /></a>
-   <a href='https://1000userguide.com/#/groupChat'><img src='https://img.shields.io/badge/官方-交流群-orange' alt='userguide10000' />
-   <a target="_blank" href='https://1000userguide.com/#/donate'><img src='https://img.shields.io/badge/赞助¥-请我喝杯饮料-purple' alt='' />
-   <a target="_blank" href='https://1000userguide.com/#/update'><img src='https://img.shields.io/badge/最后-更新记录-green' alt='' />
+   <a href='/#/groupChat'><img src='https://img.shields.io/badge/官方-交流群-orange' alt='indie-hackers-guide' />
+   <a target="_blank" href='/#/donate'><img src='https://img.shields.io/badge/赞助¥-请我喝杯饮料-purple' alt='' />
+   <a target="_blank" href='/#/update'><img src='https://img.shields.io/badge/最后-更新记录-green' alt='' />
    </a>
 </p>
 
-<table>
+<!--<table>
   <tr>
     <td align="center" vertical-align="center">
       <a href="https://muselink.cc/1000UserGuide" >
@@ -44,16 +42,17 @@
     </td>
   </tr>
 </table>
+-->
 
 ---
 
-**对独立开发者和创业者来说，找到前1000个早期用户太关键了。**
+**对独立开发者和创业者来说，找到早期用户太关键了。**
 
 为啥呢？因为这帮人能给你提宝贵的意见，帮你把产品做得更好，还能给你这个小生意打下好基础。
 
-可问题是，上哪儿找这1000个人呢？
+可问题是，上哪儿找到早期用户呢？
 
-别发愁，[1000UserGuide](http://1000userguide.com/) 就是为你准备的。这里精心整理了300多个国内外渠道，专门适合独立开发者和创业者推广产品的渠道。
+别发愁，[indie-hackers-guide](/) 就是为你准备的。这里精心整理了国内外渠道，专门适合独立开发者和创业者推广产品的渠道。
 
 **利用这些渠道，你就能：**
 
@@ -77,7 +76,7 @@
 
  - **Reddit子版块**：这些子版块专门面向开发者和创业者，你可以在这里发布你的产品，和大家交流。
 
-[1000UserGuide](http://1000userguide.com/) 就是你的贴心小帮手，帮你找到最适合你的推广渠道。有了这些推广资源，你就能少走弯路，高效推广你的产品，找到你的第一批1000个用户。
+[indie-hackers-guide](/) 就是你的贴心小帮手，帮你找到最适合你的推广渠道。有了这些推广资源，你就能少走弯路，高效推广你的产品，找到你的第一批用户。
 
 ---
 
@@ -93,7 +92,51 @@
    * [Reddit子版块](#Reddit子版块)
 
 ---
-   
+
+####  🌐强烈推荐(审核容易且能获得高质量的外链)
+
+- [科技爱好者周刊](https://www.ruanyifeng.com/blog/weekly/ )：阮一峰分享的科技内容，记录每周值得分享的科技内容，周五发布。支持推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues ) 。
+
+ - 小众软件（[发现频道](https://meta.appinn.net/c/faxian/10 )）：提交软件、应用、服务，也可以是数码产品。
+
+ - [ABABTOOLS](https://ababtools.com/ )（[曝光台](https://ababtools.com/?post=1292 )）：宝藏开发者的免费曝光台，为独立开发者提供免费产品收录。
+
+ - [少数派](https://sspai.com/ )：少数派推出“[Tron 计划](https://sspai.com/page/tron )”，支持早期创业者专注于产品开发，联合大型平台和资本资源深度扶持。该计划已支持软件、硬件和服务领域的多个优秀项目。
+ 
+ - [ahhhhfs](https://www.ahhhhfs.com )： 收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，[投稿地址](https://support.qq.com/products/411748/ )。
+
+ - [新趣集](https://xinquji.com/ )：一个类似ProductHunt的平台，可创建自己的产品介绍页面，获得免费曝光。
+
+ - [神器集](https://hao.logosc.cn/ )：一个发现分享有趣在线工具的网站。
+
+ - [不死鸟](https://iui.su/ )：支持[每日分享](https://iui.su/fx/ )投稿，你的投稿如采纳，将会发布在不死鸟每日分享，开发者可以投稿软件、网站、插件等产品，[投稿地址](https://wj.qq.com/s2/10983041/9f94/ )。
+  
+ - [Solo 社区](https://solo.xin/product )：国内的独立开发者社区，支持开发者在产品广场展示出自己的作品。
+ 
+ - [独立开发者导航站](https://www.indiehackers.site/ )：发掘最优秀的独立开发者和ta们的应用，助你从中获取灵感。[提交应用](https://www.indiehackers.site/zh/apptype/new )。
+
+ - [哎呦不错网](https://www.aiyoubucuo.com/ )：每天看一看总有新东西。[提交应用](https://www.aiyoubucuo.com/comment.html )。
+
+ - [小木屋](https://wechalet.cn/ )：收录国外和国内各类实用网站，内容涵盖国外创意、设计、美食、视频、图片、旅游、文化、音乐等多领域站点资源，[申请收录](https://wechalet.cn/appstore/add )网站。
+
+ - [快嘴科技](https://kkzui.com/ )：快嘴科技-V2ray资源站 | 一个免费分享V2ray节点的导航资源站，[申请收录](https://kkzui.com/%e6%8a%95%e7%a8%bf )网站。
+
+ - [FUUN.FUN](https://fuun.fun/ )：奇趣网站收藏家，如果你的产品是Web应用，并且有趣，可以在这里[提交分享](https://fuun.fun/talk.html )，进行曝光。
+
+ - [软软科技](https://www.softsoft.pro/ )：一个专注于软件发行、正版交易和社区建设的网站，可提交软件进行曝光获客。
+
+ - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer )：聚合所有中国独立开发者的项目，[入选标准](https://github.com/1c7/chinese-independent-developer/issues/160 )：网站 / App。如果是 Github 库， README 或顶部描述里，要附上网站或 App Store 地址，不能是纯粹针对开发者的工具，如果包含了针对开发者的工具。注意不能是套壳应用。
+
+ - [即刻](https://web.okjike.com/ ) ：国内氛围较好的社区，互联网浓度高，可发帖宣传自己的产品，容易收到转载收获种子用户。可以发在[产品安利社](https://web.okjike.com/topic/564c2ce508987312006e2326 )、[Chrome插件分享站](https://web.okjike.com/topic/5720a2b25f0ba71200ff8a0e )、[创业者的日常](https://web.okjike.com/topic/60484430cc0fe8001152585e )、[AI探索站](https://web.okjike.com/topic/63579abb6724cc583b9bba9a )、[独立开发的日常](https://m.okjike.com/hashtags/5f6c85a5763ecf0018914065?refTopicId=55e02198dcef9f0e00d7b3c3 )等圈子。也可以付费在即刻的【产品发布会】模块宣传，159元/年。
+
+ - V2EX（[分享创造](https://www.v2ex.com/go/create )）：在这里发布自己的最新作品，可以免费曝光，主要受众人群为程序员、产品经理等
+
+ - W2solo（[新品发布](https://w2solo.com/topics/newproduct )）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
+
+ - 独立开发前线 (https://www.91wink.com/ ）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
+
+ 上面部分均为本人亲测有效，下面整理来自 [1000userguide](https://1000userguide.com/#/google_vignette)
+
 ####  🌐国内网站
 
  - [科技爱好者周刊](https://www.ruanyifeng.com/blog/weekly/ )：阮一峰分享的科技内容，记录每周值得分享的科技内容，周五发布。支持推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues ) 。
@@ -111,6 +154,16 @@
  - [神器集](https://hao.logosc.cn/ )：一个发现分享有趣在线工具的网站。
 
  - [不死鸟](https://iui.su/ )：支持[每日分享](https://iui.su/fx/ )投稿，你的投稿如采纳，将会发布在不死鸟每日分享，开发者可以投稿软件、网站、插件等产品，[投稿地址](https://wj.qq.com/s2/10983041/9f94/ )。
+  
+ - [Solo 社区](https://solo.xin/product )：国内的独立开发者社区，支持开发者在产品广场展示出自己的作品。
+ 
+ - [独立开发者导航站](https://www.indiehackers.site/ )：发掘最优秀的独立开发者和ta们的应用，助你从中获取灵感。[提交应用](https://www.indiehackers.site/zh/apptype/new )。
+
+ - [哎呦不错网](https://www.aiyoubucuo.com/ )：每天看一看总有新东西。[提交应用](https://www.aiyoubucuo.com/comment.html )。
+
+ - [小木屋](https://wechalet.cn/ )：收录国外和国内各类实用网站，内容涵盖国外创意、设计、美食、视频、图片、旅游、文化、音乐等多领域站点资源，[申请收录](https://wechalet.cn/appstore/add )网站。
+
+ - [快嘴科技](https://kkzui.com/ )：快嘴科技-V2ray资源站 | 一个免费分享V2ray节点的导航资源站，[申请收录](https://kkzui.com/%e6%8a%95%e7%a8%bf )网站。
 
  - [倾城之链](https://nicelinks.site/explore/all )：一个开放平台，鼓励您创造属于您的个人品牌，烙印着自己的风格，替自己代言、发声。
 
@@ -136,13 +189,9 @@
 
  - [FUUN.FUN](https://fuun.fun/ )：奇趣网站收藏家，如果你的产品是Web应用，并且有趣，可以在这里[提交分享](https://fuun.fun/talk.html )，进行曝光。
 
- - [哎呦不错](https://aiyoubucuo.com/ )：一个挖掘好产品的分享网站，每日分享栏目，支持投稿，点击[这里](https://aiyoubucuo.com/comment.html )可以快速投稿。
-
- - [小木屋](https://wechalet.cn/ )：收录国外和国内各类实用网站，内容涵盖国外创意、设计、美食、视频、图片、旅游、文化、音乐等多领域站点资源，[申请收录](https://wechalet.cn/appstore/add )网站。
-
  - [软软科技](https://www.softsoft.pro/ )：一个专注于软件发行、正版交易和社区建设的网站，可提交软件进行曝光获客。
 
- - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer )：聚合所有中国独立开发者的项目，[入选标准](https://github.com/1c7/chinese-independent-developer/issues/160 )：网站 / App。如果是 Github 库， README 或顶部描述里，要附上网站或 App Store 地址，不能是纯粹针对开发者的工具，如果包含了针对开发者的工具。
+ - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer )：聚合所有中国独立开发者的项目，[入选标准](https://github.com/1c7/chinese-independent-developer/issues/160 )：网站 / App。如果是 Github 库， README 或顶部描述里，要附上网站或 App Store 地址，不能是纯粹针对开发者的工具，如果包含了针对开发者的工具。注意不能是套壳应用。
 
  - [Best App](https://github.com/hzlzh/Best-App/issues )：收集&amp;推荐优秀的 Apps/硬件/技巧/周边等。
 
@@ -161,10 +210,6 @@
  - [数字升产力](https://www.shengchanli.online/ )：一个客观中立的收录各种优质生产力工具的社区，目前已精选收录3000+款软件产品，包含从个人办公到团队协作到企业服务的各种生产力工具及SaaS产品。
  
  - [PriceTag 应用推荐](https://weibo.com/u/6087949803 )：由谜底科技运营，专注优质应用推荐，有趣好玩的科技资讯，创造让用户和我们都满意的产品，关注独立开发者生态，支持开发者自荐优秀产品。
- 
- - [Solo 社区](https://solo.xin/product )：国内的独立开发者社区，支持开发者在产品广场展示出自己的作品。
- 
- - [独立开发者导航站](https://www.indiehackers.site/ )：发掘最优秀的独立开发者和ta们的应用，助你从中获取灵感。[提交应用](https://www.indiehackers.site/zh/apptype/new )。
  
  [![Back to Top](assets/Back-To-Top.svg)](#目录)
 
@@ -273,6 +318,8 @@
  - V2EX（[分享创造](https://www.v2ex.com/go/create )）：在这里发布自己的最新作品，可以免费曝光，主要受众人群为程序员、产品经理等
 
  - W2solo（[新品发布](https://w2solo.com/topics/newproduct )）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
+
+ - 独立开发前线 (https://www.91wink.com/ ）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
 
  - [HelloGitHub](https://hellogithub.com/ )：一个发现和分享有趣、入门级开源项目的平台，开发者可提交分享进行曝光。
 
@@ -849,5 +896,7 @@ Reddit这个平台上的一些子版块，这些地方特别适合开发者去�
  - [r/ChatGPT](https://www.reddit.com/r/ChatGPT/ )：如果你基于ChatGPT API开发了新产品，那么可以在这里讨论。帖子必须与 ChatGPT 或 AI 主题直接相关。
 
 Reddit上的这些子版块，对于开发者来说，就像是一个个小市场，找对了地方，你的项目就能得到更多的关注和反馈。不过，每个版块都有自己的规矩，遵守规则，真诚交流，才能在这些社区里获得成功。
+
+最后感谢 [1000UserGuide](https://1000userguide.com/#/) 我在上面做了一些整理和归纳
 
 [![Back to Top](assets/Back-To-Top.svg)](#目录)
