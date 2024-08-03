@@ -122,9 +122,7 @@
  - [快嘴科技](https://kkzui.com/ )：快嘴科技-V2ray资源站 | 一个免费分享V2ray节点的导航资源站，[申请收录](https://kkzui.com/%e6%8a%95%e7%a8%bf )网站。
 
  - [FUUN.FUN](https://fuun.fun/ )：奇趣网站收藏家，如果你的产品是Web应用，并且有趣，可以在这里[提交分享](https://fuun.fun/talk.html )，进行曝光。
-
- - [软软科技](https://www.softsoft.pro/ )：一个专注于软件发行、正版交易和社区建设的网站，可提交软件进行曝光获客。
-
+s
  - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer )：聚合所有中国独立开发者的项目，[入选标准](https://github.com/1c7/chinese-independent-developer/issues/160 )：网站 / App。如果是 Github 库， README 或顶部描述里，要附上网站或 App Store 地址，不能是纯粹针对开发者的工具，如果包含了针对开发者的工具。注意不能是套壳应用。
 
  - [即刻](https://web.okjike.com/ ) ：国内氛围较好的社区，互联网浓度高，可发帖宣传自己的产品，容易收到转载收获种子用户。可以发在[产品安利社](https://web.okjike.com/topic/564c2ce508987312006e2326 )、[Chrome插件分享站](https://web.okjike.com/topic/5720a2b25f0ba71200ff8a0e )、[创业者的日常](https://web.okjike.com/topic/60484430cc0fe8001152585e )、[AI探索站](https://web.okjike.com/topic/63579abb6724cc583b9bba9a )、[独立开发的日常](https://m.okjike.com/hashtags/5f6c85a5763ecf0018914065?refTopicId=55e02198dcef9f0e00d7b3c3 )等圈子。也可以付费在即刻的【产品发布会】模块宣传，159元/年。
@@ -133,7 +131,9 @@
 
  - W2solo（[新品发布](https://w2solo.com/topics/newproduct )）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
 
- - 独立开发前线 (https://www.91wink.com/ ）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
+ - [独立开发前线](https://www.91wink.com/ ）：国内氛围非常不错的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
+
+ - [电鸭](https://eleduck.com/ ）：国内氛围最好的独立开发社区，受众为独立开发者，可发帖介绍自己的产品。
 
  上面部分均为本人亲测有效，下面整理来自 [1000userguide](https://1000userguide.com/#/google_vignette)
 
