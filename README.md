@@ -135,7 +135,7 @@ s
 
  - [电鸭](https://eleduck.com/ ）：国内远程和独立开发者社区，可发帖介绍自己的产品。[发产品](https://eleduck.com/posts/new)
 
- - [霂明坊](https://mumingfang.com/portal.php ）：国内远程和独立开发者社区，可发帖介绍自己的产品。[发产品](https://eleduck.com/posts/new)
+ - [霂明坊](https://mumingfang.com/portal.php ）：可以在这里分享你的创意和创造的产品。
 
  上面部分均为本人亲测有效，下面整理来自 [1000userguide](https://1000userguide.com/#/google_vignette)
 
