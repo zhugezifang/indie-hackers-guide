@@ -141,6 +141,7 @@ s
  - [producthunt](https://www.producthunt.com/) 可以提交产品
  - https://refined.so/tools/seo-directories
  - [noisedh](https://www.noisedh.cn/) 投稿地址：https://www.noisedh.cn/tougao/
+ - [https://mlink.cc/zgzf](https://mlink.cc/zgzf)
 
  上面部分均为本人亲测有效，下面整理来自 [1000userguide](https://1000userguide.com/#/google_vignette)
 
