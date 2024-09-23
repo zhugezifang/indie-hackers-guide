@@ -145,6 +145,24 @@ s
 
  上面部分均为本人亲测有效，下面整理来自 [1000userguide](https://1000userguide.com/#/google_vignette)
 
+
+####  AI导航站
+
+- [The Best AI Tools](https://allinai.tools)
+- [RightAI Tools Directory](https://right-ai.com/)
+- [AI Tool Trek](https://aitooltrek.com)
+- [AI Just Works](https://aijustworks.com)
+- [Dir2AI](https://www.dir2ai.com)
+- [AIPURE AI](https://aipure.ai/)
+- [Creati.ai](https://creati.ai)
+- [AI With Me](https://aiwith.me)
+- [AiHeron](https://www.aiheron.com/)
+- [AIStage](https://aistage.net)
+- [AiToolNet](https://www.aitoolnet.com/)
+- [Bai.tools](https://bai.tools/)
+- [AI Tool Center](https://aitoolcenter.com/)
+- [Dang AI](https://dang.ai/)
+
 ####  🌐国内网站
 
  - [科技爱好者周刊](https://www.ruanyifeng.com/blog/weekly/ )：阮一峰分享的科技内容，记录每周值得分享的科技内容，周五发布。支持推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues ) 。
