@@ -1,5 +1,7 @@
 <h1 align="center">🚀indie-hackers-guide</h1>
 
+<p align="center"><img src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/285fc5b2-a290-4f18-a53d-a7e7931e9638.jpeg"></p>
+
 <p align="center">
    <a href="https://github.com/zhugezifang/indie-hackers-guide"><img src="https://img.shields.io/github/stars/zhugezifang/indie-hackers-guide" alt="Github Stars"></a>
    <a target="_blank" href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-Apache%202-green.svg" /></a>
