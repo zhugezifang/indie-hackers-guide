@@ -1,6 +1,6 @@
 <h1 align="center">🚀indie-hackers-guide</h1>
 
-<p align="center"><img src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/285fc5b2-a290-4f18-a53d-a7e7931e9638.jpeg" style="width:300px"></p>
+<p align="center"><img src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/6bbbfdb2-81c4-48d5-a3be-78ece406ae3a.jpeg" style="width:300px"></p>
 
 <p align="center">
    <a href="https://github.com/zhugezifang/indie-hackers-guide"><img src="https://img.shields.io/github/stars/zhugezifang/indie-hackers-guide" alt="Github Stars"></a>
