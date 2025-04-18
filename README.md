@@ -99,6 +99,8 @@
 
 - [科技爱好者周刊](https://www.ruanyifeng.com/blog/weekly/ )：阮一峰分享的科技内容，记录每周值得分享的科技内容，周五发布。支持推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues ) 。
 
+ - https://www.ywyj.cn
+
  - 小众软件（[发现频道](https://meta.appinn.net/c/faxian/10 )）：提交软件、应用、服务，也可以是数码产品。
 
  - [ABABTOOLS](https://ababtools.com/ )（[曝光台](https://ababtools.com/?post=1292 )）：宝藏开发者的免费曝光台，为独立开发者提供免费产品收录。
